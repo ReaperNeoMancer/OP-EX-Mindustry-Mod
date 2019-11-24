@@ -7,13 +7,13 @@
 		"silicon": "standardHoming",
 		"lead": {
 			"speed": 100.0,
-			"damage": 99999999,
-			"reloadMultiplier": 99999.99,
+			"damage": 666666666,
+			"reloadMultiplier": 1000000,
 			"bulletWidth": 10,
 			"bulletHeight": 10,
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke",
-			"ammoMultiplier": 2,
+			"ammoMultiplier": 4,
 			"backColor": "ac7349",
 			"frontColor": "dcd16b"
 		}
